@@ -3,7 +3,6 @@
 -- Projeto: UDBrasil Distribuidora Atacadista
 -- ***************************************************************
 
--- Ativa o esquema (substitua pelo seu nome, ex: USE udbrazil_projeto;)
 USE udbrasil_projeto; 
 SET SQL_SAFE_UPDATES = 0; -- Desativa o modo de segurança para permitir UPDATEs e DELETEs sem WHERE na PK (Apenas para testes!)
 
