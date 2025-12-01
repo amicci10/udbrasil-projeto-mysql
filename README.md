@@ -2,7 +2,7 @@
 
 ## 📋 1. Visão Geral do Projeto
 
-Este projeto consiste na modelagem e implementação de um Banco de Dados Relacional para a empresa **UDBrasil**, uma distribuidora **B2B** (Business-to-Business) de potes e embalagens de vidro em grandes volumes[cite: 118]. [cite_start]O foco principal do sistema é gerenciar o **estoque atacadista**, as regras de **preços por volume** e o **rastreamento de pedidos** de clientes Pessoa Jurídica (PJ)[cite: 119, 120, 121, 122, 123].
+Este projeto consiste na modelagem e implementação de um Banco de Dados Relacional para a empresa **UDBrasil**, uma distribuidora **B2B** (Business-to-Business) de potes e embalagens de vidro em grandes volumes[cite: 118]. O foco principal do sistema é gerenciar o **estoque atacadista**, as regras de **preços por volume** e o **rastreamento de pedidos** de clientes Pessoa Jurídica (PJ)[cite: 119, 120, 121, 122, 123].
 
 ---
 
