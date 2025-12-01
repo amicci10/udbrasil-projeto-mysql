@@ -52,5 +52,5 @@ Os scripts devem ser executados na ordem numérica para respeitar as dependênci
 
 ## 👨‍💻 4. Autor
 
-**Autor do Projeto:** [Seu Nome Completo]
-**Instituição:** [Nome da Sua Instituição de Ensino]
+**Autor do Projeto:** [Henrique Arantes Amicci]
+**Instituição:** [Universidade Cruzeiro do Sul]
