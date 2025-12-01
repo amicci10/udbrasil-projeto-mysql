@@ -2,7 +2,7 @@
 
 ## 📋 1. Visão Geral do Projeto
 
-[cite_start]Este projeto consiste na modelagem e implementação de um Banco de Dados Relacional para a empresa **UDBrasil**, uma distribuidora **B2B** (Business-to-Business) de potes e embalagens de vidro em grandes volumes[cite: 118]. [cite_start]O foco principal do sistema é gerenciar o **estoque atacadista**, as regras de **preços por volume** e o **rastreamento de pedidos** de clientes Pessoa Jurídica (PJ)[cite: 119, 120, 121, 122, 123].
+Este projeto consiste na modelagem e implementação de um Banco de Dados Relacional para a empresa **UDBrasil**, uma distribuidora **B2B** (Business-to-Business) de potes e embalagens de vidro em grandes volumes[cite: 118]. [cite_start]O foco principal do sistema é gerenciar o **estoque atacadista**, as regras de **preços por volume** e o **rastreamento de pedidos** de clientes Pessoa Jurídica (PJ)[cite: 119, 120, 121, 122, 123].
 
 ---
 
@@ -14,9 +14,9 @@ O modelo foi desenvolvido utilizando a ferramenta MySQL Workbench, seguindo rigo
 
 O modelo é composto por 8 tabelas principais, com foco nas seguintes entidades transacionais e de produto:
 
-* [cite_start]**CLIENTE\_PJ:** Cadastro e gestão de crédito B2B[cite: 125].
+* **CLIENTE\_PJ:** Cadastro e gestão de crédito B2B[cite: 125].
 * **PRODUTO:** Detalhes do pote, estoque total e regras de preço[cite: 148, 126].
-* [cite_start]**PEDIDO:** Informações da transação de venda e status de crédito[cite: 150].
+* **PEDIDO:** Informações da transação de venda e status de crédito[cite: 150].
 * **ITEM\_PEDIDO:** Tabela associativa que resolve a relação N:M entre Pedido e Produto.
 * **FORNECEDOR:** Dados cadastrais da origem dos produtos[cite: 151].
 
